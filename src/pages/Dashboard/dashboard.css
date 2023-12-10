@@ -1,0 +1,7 @@
+.gridLayout {
+      display: grid;
+      width: 100%;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
+    
